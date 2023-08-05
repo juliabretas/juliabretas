@@ -1,6 +1,6 @@
 # Sobre Julia Bretas
 ## Em transição de carreira, saindo da área de Educação Física e explorando a área de tecnologia. Acostumada a me movimentar e experimentar coisas novas, desafios me movem.
-### Instrutora de yoga, pernalta, mãe de um garotinho de dois anos e 
+### Instrutora de yoga, pernalta, mãe de um garotinho de dois anos e empolgada com essa nova jornada em tecnologia.
 paragrafo normal
 
 nova linha

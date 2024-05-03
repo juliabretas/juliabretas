@@ -1,9 +1,9 @@
 # Hello world!
 ## Em transição de carreira: 
 ## -fazendo faculdade de Sistemas de Computação, me especializando em python,  
-## - saindo da área de Educação Física, instrutora de yoga e pilates.
+## - instrutora de yoga e pilates.
 
-## Acostumada a me movimentar e experimentar coisas novas, desafios me movem.
+## Acostumada a me movimentar e experimentar coisas novas.
 
 
 <div>
